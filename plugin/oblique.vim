@@ -22,9 +22,9 @@ try:
     response = urllib2.urlopen(URL, None, TIMEOUT).read()
     json_response = json.loads(response)
     ob = "#" + str(json_response['strategy'])
-    #print "#" + str(json_response['strategy'])
     vcb = vim.current.buffer
-    vcb[0:0] = [ ob ]
+    linenumber = vim.current.range.end
+    vcb[linenumber:linenumber] = [ ob ]
 
 except Exception, e:
     print e

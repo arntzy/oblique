@@ -1,0 +1,25 @@
+*oblique.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                              *oblique*
+
+    1. Intro .................................................. |oblique-intro|
+    2. Requirements .................................... |oblique-requirements|
+    3. Usage .................................................. |oblique-usage|
+    4. Licence .............................................. |oblique-licence|
+===============================================================================
+1. Intro                                                        *oblique-intro*
+
+Overview of plugin
+
+2. Requirements                                          *oblique-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                        *oblique-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                                    *oblique-licence*
+
+This is open source make sure to include a licence

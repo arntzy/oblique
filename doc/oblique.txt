@@ -1,0 +1,30 @@
+*oblique.txt* 	  Plugin for adding an Oblique Strategy to your Code
+
+===============================================================================
+CONTENTS                                                              *oblique*
+
+    1. Intro .................................................. |oblique-intro|
+    2. Requirements .................................... |oblique-requirements|
+    3. Usage .................................................. |oblique-usage|
+    4. Licence .............................................. |oblique-licence|
+===============================================================================
+1. Intro                                                        *oblique-intro*
+
+This plugin offers inspiration by inserting a random Oblique Strategy (from
+the Oblique Strategies Deck by Brian Eno) into the file you are editing in Vim.
+
+===============================================================================
+2. Requirements                                          *oblique-requirements*
+
+You must be connected to the internet to access the Oblique Strategy API.
+
+===============================================================================
+3. Usage                                                        *oblique-usage*
+
+:Oblique 	Place the cursor on the line where you want to add the Oblique
+		Strategy and enter the Ex command :Oblique to insert it.
+
+===============================================================================
+4. Licence                                                    *oblique-licence*
+
+please use it. 

@@ -1,4 +1,6 @@
-'oblique-intro'		oblique.txt	/*oblique-intro*
-'oblique-requirements'	oblique.txt	/*oblique-requirements*
-'oblique-usage'		oblique.txt	/*oblique-usage*
-'oblique-licence'	oblique.txt	/*oblique-licence*
+oblique	oblique.txt	/*oblique*
+oblique-intro	oblique.txt	/*oblique-intro*
+oblique-licence	oblique.txt	/*oblique-licence*
+oblique-requirements	oblique.txt	/*oblique-requirements*
+oblique-usage	oblique.txt	/*oblique-usage*
+oblique.txt	oblique.txt	/*oblique.txt*
